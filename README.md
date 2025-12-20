@@ -4,16 +4,16 @@
 🛡️ DevSecOps-focused | Secure Software & API Security
 💻 Background in frontend & backend development, networking, and cybersecurity
 
-⸻
+---
 
 🚀 About Me
 
 I am a Software Engineering student focused on security-first software development and DevSecOps practices.
 My learning journey has been built progressively, starting with programming fundamentals and frontend development, evolving into backend systems, software architecture, computer networking, and cybersecurity.
 
-This path allows me to understand systems end to end — from user interface to backend, infrastructure, and security — which strongly aligns with DevSecOps and Security Engineering roles.
+This path allows me to understand systems end to end from user interface to backend, infrastructure, and security — which strongly aligns with DevSecOps and Security Engineering roles.
 
-⸻
+---
 
 🧭 Technical & Professional Evolution
 
@@ -28,7 +28,7 @@ My technical growth follows a clear progression:
 
 This evolution reflects a consistent focus on building reliable, secure, and well-engineered systems.
 
-⸻
+---
 
 🎯 Career Focus
 	•	DevSecOps foundations and security-first development
@@ -37,7 +37,7 @@ This evolution reflects a consistent focus on building reliable, secure, and wel
 	•	Blue Team and defensive security practices
 	•	Automation and reliability in production environments
 
-⸻
+---
 
 🛠️ Technical Skills
 
@@ -66,7 +66,7 @@ Tools & Practices
 	•	CI/CD fundamentals
 	•	Security-oriented development mindset
 
-⸻
+---
 
 📜 Certifications & Training
 
@@ -80,7 +80,7 @@ Tools & Practices
 	•	User Experience (UX) Fundamentals
 	•	Information Architecture Fundamentals
 
-⸻
+
 
 💻 Software Development & Engineering
 	•	JavaScript Developer Formation — DIO
@@ -89,7 +89,7 @@ Tools & Practices
 	•	Software Architecture Fundamentals
 	•	Version Control with Git & GitHub
 
-⸻
+
 
 🔐 Networking & Cybersecurity — Cisco Networking Academy
 	•	CCNA: Introduction to Networks — Dec 2025
@@ -98,7 +98,7 @@ Tools & Practices
 	•	Vulnerability Assessment (Module)
 	•	Incident Response (Module)
 
-⸻
+
 
 🤖 Artificial Intelligence (Applied)
 	•	Fundamentals of Artificial Intelligence
@@ -108,13 +108,13 @@ Tools & Practices
 
 (AI studied as a support tool for automation, analysis, and productivity — not as a pure Machine Learning career path)
 
-⸻
+
 
 🎨 Product, UX & Professional Development
 	•	Digital Product Architecture
 	•	DIO Campus Expert Program — Leadership & Career Development
 
-⸻
+---
 
 🧪 Featured Project
 
@@ -125,7 +125,7 @@ A secure authentication API built with Node.js, JWT, and bcrypt, focusing on:
 	•	security best practices
 	•	clear and organized architecture
 
-⸻
+---
 
 🌱 Current Learning & Next Steps
 	•	DevSecOps practices
@@ -134,14 +134,14 @@ A secure authentication API built with Node.js, JWT, and bcrypt, focusing on:
 	•	Security automation
 	•	Preparation for CyberOps Associate
 
-⸻
+---
 
 🎯 Career Goals
 	•	Build and maintain secure, scalable, and well-structured systems
 	•	Grow technically in DevSecOps and Security Engineering
 	•	Contribute to projects that value security, reliability, and engineering best practices
 
-⸻
+---
 
 📫 Connect with me:
 GitHub • LinkedIn
