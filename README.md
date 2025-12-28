@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Bruna 👋🌸💫
+## 👋 Hi, I’m Bruna!
 
 🎓 Software Engineering student
 🛡️ DevSecOps-focused | Secure Software & API Security
