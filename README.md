@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Bruna!
 
-🎓 Software Engineering student
+🎓 Software Engineering
 🛡️ DevSecOps-focused | Secure Software & API Security
 💻 Background in frontend & backend development, networking, and cybersecurity
 
